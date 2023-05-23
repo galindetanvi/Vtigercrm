@@ -9,3 +9,6 @@
 <h2>addding new</h2>
 </body>
 </html>
+driver.manage().window().maximize();
+driver.manage().window().minimize();
+driver.manage().window().getfullscreen();
